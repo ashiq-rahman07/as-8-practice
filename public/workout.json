@@ -1,0 +1,45 @@
+[
+    {
+        "id": "c9d1f410-d28f-49d9-9b01-d759b5acbeea",
+        "name": "Cardio",
+        "text": " Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "img": "https://img.freepik.com/premium-photo/close-up-asian-beautiful-sport-girl-wall-gymthailand-love-healthslim-woman-workout-concept_44277-14049.jpg",
+        "time": 30
+    },
+    {
+        "id": "1564a06b-692f-4f2e-8413-9c8a1cc2da77",
+        "name": "Chest",
+        "text": " Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "img": "https://img.freepik.com/premium-photo/close-up-asian-beautiful-sport-girl-wall-gymthailand-love-healthslim-woman-workout-concept_44277-14049.jpg",
+        "time": 30
+    },
+    {
+        "id": "ac44095f-230e-4502-8816-dea3eaae8320",
+        "name": "Shulder",
+        "text": " Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "img": "https://img.freepik.com/premium-photo/close-up-asian-beautiful-sport-girl-wall-gymthailand-love-healthslim-woman-workout-concept_44277-14049.jpg",
+        "time": 30
+    },
+    {
+        "id": "d0803f97-966f-4296-ad31-a7f70fc86fab",
+        "name": "Back",
+        "text": " Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "img": "https://img.freepik.com/premium-photo/close-up-asian-beautiful-sport-girl-wall-gymthailand-love-healthslim-woman-workout-concept_44277-14049.jpg",
+        "time": 30
+
+    },
+    {
+        "id": "8a5b4a9c-76ea-4fbb-9c70-9548de4eab01",
+        "name": "Tryceps",
+        "text": "ftyyf",
+        "img": "https://img.freepik.com/premium-photo/close-up-asian-beautiful-sport-girl-wall-gymthailand-love-healthslim-woman-workout-concept_44277-14049.jpg",
+        "time": 30
+    },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "name": "Squats",
+        "text": " Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "img": "https://img.freepik.com/premium-photo/close-up-asian-beautiful-sport-girl-wall-gymthailand-love-healthslim-woman-workout-concept_44277-14049.jpg",
+        "time": 30
+    }
+]
